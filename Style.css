@@ -1,0 +1,87 @@
+ * {
+     margin: 0 auto;
+
+ }
+
+ .heading {
+     /* background-color: black; */
+     color: black;
+     display: grid;
+     justify-content: center;
+     font-family: 'Edu TAS Beginner', cursive;
+     font-family: 'Libre Baskerville', serif;
+ }
+ .heading p{
+    font-size: 20px;
+    font-weight: 600;
+ }
+ h1 {
+     margin: 0 auto;
+     /* display: flex;
+    justify-content: center; */
+     font-size: 50px;
+     font-family: 'Edu TAS Beginner', cursive;
+     font-family: 'Libre Baskerville', serif;
+ }
+
+ .firstbox {
+     display: grid;
+     justify-content: center;
+     /* background-color: black; */
+ }
+
+ .thirdbox {
+     /* background-color: black; */
+     display: grid;
+ }
+ .section1{
+    width: 60rem;
+    background-color: white;
+    border-radius: 10px;
+ }
+ .section1 p{
+    padding: 15px;
+    font-size: 27px;
+    letter-spacing: 1px;
+ }
+ .fifthbox{
+    display: grid;
+    /* justify-content: center; */
+ }
+ .fifthbox h2{
+    justify-content: center;
+    font-size: 28px;
+}
+.fifthbox ul{
+    list-style: inside;
+    display: grid;
+    width: 63.3rem;
+}
+ .fifthbox li{
+     width: 58.3rem;
+     background-color: white;
+     border-radius: 10px;
+     padding: 15px;
+     font-size: 20px;
+     /* letter-spacing: 1px; */
+     margin: 5px;
+    }
+.sixthbox{
+    display: grid;
+}
+.sixthbox h2{
+    justify-content: center;
+    font-size: 28px;
+}
+.sixthbox th{
+    margin: 10px;
+    width: 30rem;
+    background-color: white;
+    border-radius: 15px;
+}
+.sixthbox p{
+    padding: 15px;
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: 100;
+}
